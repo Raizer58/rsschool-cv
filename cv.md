@@ -23,3 +23,16 @@ I mean the mathematical mindset and well-developed logic. I try to quickly learn
 }; */
 
 6. No experience
+7. 2016
+Penza State University, Penza
+Economics and finance, Financial management
+
+2013
+Penza State University, Penza
+Faculty of Instrument Engineering, Information Technologies and Systems, Fuses and Control Systems for Means of Destruction
+
+2019 SoloLearn - JavaScript Tutorial Course
+2020 learn.javascript.ru - Self education
+2020 SoloLearn - HTML Fundamentals course
+
+8. A1 - Elementary
