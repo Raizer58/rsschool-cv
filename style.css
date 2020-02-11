@@ -1,0 +1,185 @@
+html{
+    background-image: url(image/background.jpg);
+    background-size: 100%;
+}
+
+body {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1014px;
+    border: 5px solid #ece7e7 ;
+    border-radius: 5px;
+    color: white;
+    font-size: 16px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+header{
+    background-color: #bebfc0b6; 
+    border: 3px solid #000000b4; 
+    border-radius: 6px;
+}
+
+h1 {
+    color: #1d1d1dd2;
+   text-align: center; 
+}
+
+main{
+    margin: auto;
+    width: 100%;
+}
+
+
+img {
+    float:left;
+    width: 110px;
+    margin: 20px 40px 0px 20px;
+    border: 4px solid #5f5b7773;
+    border-radius: 60px;
+    background-color: #ffffffc0;
+}
+
+.contact-info{ 
+    margin-left: 5px;
+    height: 150px;
+    width: 400px;
+    margin-bottom: 35px;
+}
+
+.contact-info:hover{ 
+    background-color:#39479465;
+}
+
+.contact-info p{
+   padding-top: 50px;
+}
+
+.about-me {
+    margin-left:50px;
+    height: 155px;
+    width: 730px;
+    margin-bottom: 35px;
+}
+
+.about-me:hover{ 
+    background-color:#39479465;
+}
+
+.about-me p{
+    padding-top: 10px;
+}
+
+.my-skils{
+    margin-left:100px;
+    width: 870px;
+    height: 210px;
+    margin-bottom: 35px;
+}
+
+.my-skils:hover{ 
+    background-color:#39479465;
+}
+
+.my-skils img{
+    margin: 45px 40px 45px 20px;
+}
+
+.my-skils p{
+    padding-top: 10px;
+}
+
+.example-code{
+    width: 840px;
+    height: 295px;
+    margin-left:150px;
+    margin-bottom: 35px;
+    padding-top: 10px;
+}
+
+.example-code:hover{ 
+    background-color:#39479465;
+}
+
+.example-code img{
+    margin: 65px 40px 65px 20px;
+}
+
+.example-code pre{
+    color:black;
+    background-color: #e8f5f8;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 0px 20px 0px 160px;
+    border: 3px solid #2b599e;
+    border-radius: 10px;
+}
+
+.expirience {
+    margin-left:200px;
+    width: 320px;
+    height: 150px;
+    margin-bottom: 35px;
+}
+
+.expirience:hover{ 
+    background-color:#39479465;
+
+}
+
+.expirience p{
+    padding-top: 65px;
+}
+
+.education {
+    margin-left:250px;
+    width: 730px;
+    height: 310px;
+    margin-bottom: 35px;
+}
+
+.education:hover{ 
+    background-color:#39479465;
+}
+
+.education img{
+    margin: 90px 40px 90px 20px;
+}
+
+.education p{
+    padding-top: 10px;
+}
+
+.languge {
+    margin-left:300px;
+    width: 330px;
+    height: 150px;
+    margin-bottom: 35px;
+}
+
+.languge:hover{ 
+    background-color:#39479465;
+}
+
+.languge p{
+    padding-top: 65px;
+}
+
+footer {
+    height:50px;
+    margin: 5px;
+    text-align: right;
+    vertical-align: bottom;
+    background-color: #00000094;
+}
+
+footer div{
+    padding-top: 24px;
+    padding-right: 10px;
+}
+
+.clearfix { 
+    content: '';
+    clear: both; 
+    display: block;
+   }
